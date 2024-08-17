@@ -1,6 +1,0 @@
-[tool.black]
-line-length = 88
-target-version = ['py11']
-skip-string-normalization = 1
-[tool.pytest.ini_options]
-addopts = "--clean-alluredir --alluredir=allure-results"
